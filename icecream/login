@@ -1,0 +1,41 @@
+<html> 
+2 <head> 
+3 <link rel="stylesheet" type="text/css" href="icecream.css"> 
+4 <title>login</title> 
+5 </head> 
+6 <body> 
+7 <h1>ICE-CREAM</h1> 
+8 <br><br><br><br><br><br><br><br><br> 
+9 
+ 
+10 <form action="order.html" method=post> 
+11 <table align="center" height=50 width=500 border="5"> 
+12 <tr> 
+13 <td><b>Login Page<b></td></tr></table> 
+14 <table align="center" height=200 width=500 border="5"> 
+15 <tr> 
+16 <td> 
+17 <br> 
+18 <Div> 
+19 USERNAME:<input type="text" name="username" value="username"></input>  
+20 </div> 
+21 <br> 
+22 <div> 
+23 PASSWORD:<input type="password" name="username" value="username"> </input> 
+24 </div> 
+25 <br> 
+26 <div> 
+27 <input type="submit" name="login" value="Login"> 
+28 </div> 
+29 <br> 
+30 <div> 
+31 or<br> 
+32 login with 
+33 <br> 
+34 <input type="submit" value="F">&nbsp&nbsp&nbsp&nbsp<input type="submit" value="G"> 
+35 </div> 
+36 <form method="get"> 
+37 
+ 
+38 </body> 
+39 </html> 
